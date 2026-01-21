@@ -52,6 +52,18 @@ User actions such as **play, pause, seek, next, and previous** are dispatched fr
 
 ---
 
+## Setup Instructions
+- **IDE:** Android Studio Hedgehog (or newer)  
+- **Minimum SDK:** 24 (Android 7.0)
+
+### Steps to Run
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Allow Gradle to sync and download dependencies.
+4. Run the `:app` module on an emulator or physical device with an active internet connection.
+
+---
+
 ## Assumptions & Trade-offs
 - **API Limitations:**  
   The app uses a public community API for JioSaavn. Basic error handling is implemented to account for possible downtime, rate limits, or inconsistent responses.
