@@ -65,5 +65,5 @@ User actions such as **play, pause, seek, next, and previous** are dispatched fr
 ---
 
 ## Demo & APK
-- **Video Demo:** [Add demo video link here]  
-- **Debug APK:** [Add APK download link here]  
+- **Video Demo:** https://drive.google.com/file/d/1mn5iexK3WuxjASeSqfsFRzDUZezcQ4Hb/view?usp=drivesdk  
+- **Debug APK:** https://drive.google.com/file/d/1B25WdVxgRsdUM5NsYjGkV78aN2zbf5d1/view?usp=sharing
